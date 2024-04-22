@@ -40,7 +40,6 @@ res1() {
     wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/sctunnel/sctunnel/main/Enc/encrypt" ; chmod +x /usr/bin/enc
     7z x -pCapzVPnStore1212CapzTunnel menu.zip
     chmod +x menu/*
-    enc menu/*
     mv menu/* /usr/local/sbin
     rm -rf menu
     rm -rf menu.zip
