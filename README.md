@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines= CAPMODZ;AUTO SCRIPT V.2.0.5" />
+</p>
 
 # UP REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
@@ -15,6 +18,10 @@
 ### UPDATE SCRIPT 
 <pre><code>wget -q http://sctunnel.serv00.net/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
+
+### TESTED ON OS 
+- DEBIAN 10 (Recommended)
+- UBUNTU 20.04.05
 
 ### GUNAKAN INSTALL SCRIPT KE 2 JIKA TERJADI PROBLEM MENGGUNAKAN INSTALL SCRIPT KE 1.
 
