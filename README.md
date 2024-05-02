@@ -15,3 +15,5 @@
 ### UPDATE SCRIPT 
 <pre><code>wget -q http://sctunnel.serv00.net/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
+
+### GUNAKAN INSTALL SCRIPT KE 2 JIKA TERJADI PROBLEM MENGGUNAKAN INSTALL SCRIPT KE 1.
